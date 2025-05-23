@@ -112,7 +112,7 @@ export const SkillsInfo = [
 
        image:portfoliologo, 
       tags: ["React JS","HTML", "CSS", "JavaScript","Tailwind Css"],
-      github: "https://github.com/codingmastr/CSPrep",
+      github: "https://github.com/Akshay9373/Portfolio",
       webapp: "https://csprep.netlify.app/",
     },
    
